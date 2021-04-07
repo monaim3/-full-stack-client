@@ -1,0 +1,9 @@
+.rock{
+    background-color:powderblue;
+    height:83vh;
+}
+.rock h3{
+    text-align: center;
+    margin-top: 5px;
+    color:black;
+}
