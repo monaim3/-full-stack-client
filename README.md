@@ -2,13 +2,13 @@
 <a href='https://rock-valley-8e0f7.web.app/' /> Live site Link: E-commerce Product-website </a>
 
 <h2> Features :</h2>
-<h3> Login option with firebase </h3>
-<h3> data loded from Database</h3>
-<h3> people can buy their product </h3>
+<h3>1: Login option with firebase </h3>
+<h3> 2: data loded from Database</h3>
+<h3> 3: people can buy their product </h3>
 
-<h3> Admin can add product </h3>
-<h3> people can place their order </h3>
-<h3> they can remove their selected order </h3>
+<h3> 4: Admin can add product </h3>
+<h3> 5: people can place their order </h3>
+<h3> 6: they can remove their selected order </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/monaimmukul2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="monaimmukul2" height="30" width="40" /></a>
